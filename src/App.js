@@ -151,10 +151,10 @@ function Title() {
     <div className="flex items-center justify-between">
       <div>
         <p className="text-xl font-medium leading-tight text-white truncate">
-          You Right
+          Treasure - La Isla
         </p>
         <p className=" text-xl leading-tight truncate text-[#A49FC3]/90">
-          Doja Cat & The Weeknd
+          Nicko
         </p>
       </div>
       <button className="flex items-center justify-center rounded-full w-7 h-7 bg-white/10 active:bg-white/20">
