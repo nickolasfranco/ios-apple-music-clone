@@ -136,7 +136,7 @@ function AnimatedGradient() {
           scale: 1.75,
           backgroundColor: "#322840",
           backgroundImage: `
-            linear-gradient(to bottom right, red, yellow)`,
+            linear-gradient(135deg, rgba(63,104,188,1) 0%, rgba(70,164,203,1) 20%, rgba(119,212,201,1) 40%, rgba(227,217,195,1) 60%, rgba(222,205,181,1) 80%, rgba(208,185,156,1) 100%)`,
         }}
         className="absolute inset-0"
       ></motion.div>
