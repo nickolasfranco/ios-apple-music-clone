@@ -345,7 +345,7 @@ function Volume() {
 
   return (
     <div className="flex items-center justify-between w-full mt-[38px]">
-      <Icons.VolumeMute className="h-5 text-[#A29CC0]" />
+      <Icons.VolumeMute className="h-5 text-white" />
 
       <div className="w-full px-[14px]">
         <div
@@ -420,7 +420,7 @@ function Volume() {
         </div>
       </div>
 
-      <Icons.VolumeHigh className="h-5 text-[#A29CC0]" />
+      <Icons.VolumeHigh className="h-5 text-white" />
     </div>
   );
 }
