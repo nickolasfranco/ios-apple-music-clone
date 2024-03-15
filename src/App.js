@@ -135,8 +135,7 @@ function AnimatedGradient() {
           y,
           scale: 1.75,
           backgroundColor: "#322840",
-          backgroundImage: `
-            background-image: linear-gradient(to bottom right, blue, yellow);
+          backgroundImage: linear-gradient(to bottom right, blue, yellow),
         }}
         className="absolute inset-0"
       ></motion.div>
