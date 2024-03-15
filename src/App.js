@@ -135,7 +135,10 @@ function AnimatedGradient() {
           y,
           scale: 1.75,
           backgroundColor: "#322840",
-          backgroundImage: linear-gradient(to bottom right, blue, yellow),
+          backgroundImage: `
+            radial-gradient(at 21% 33%, #1f2460 0px, transparent 50%),
+            radial-gradient(at 79% 32%, #2d1e51 0px, transparent 50%),
+            radial-gradient(at 26% 83%, #0f2451 0px, transparent 50%)`,
         }}
         className="absolute inset-0"
       ></motion.div>
