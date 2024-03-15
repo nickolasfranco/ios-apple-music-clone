@@ -12,7 +12,7 @@ button:focus {
 .mesh {
   background-color: #77d4c9;
 
-  background-image: linear-gradient(to bottom right, red, yellow)
+  background-image: linear-gradient(to bottom right, red, yellow);
 
   /* ryan original colors */
   /* background-image: radial-gradient(
