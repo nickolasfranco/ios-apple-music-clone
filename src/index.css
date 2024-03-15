@@ -12,7 +12,7 @@ button:focus {
 .mesh {
   background-color: #77d4c9;
 
-  background-image: url("album.webp")
+  background-image: url("./public/album.webp")
 
   /* ryan original colors */
   /* background-image: radial-gradient(
