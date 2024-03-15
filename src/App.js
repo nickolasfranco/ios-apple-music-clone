@@ -151,7 +151,7 @@ function Title() {
         <p className="text-xl font-medium leading-tight text-white truncate">
           Treasure - La Isla
         </p>
-        <p className=" text-xl leading-tight truncate text-[#A49FC3]/90">
+        <p className=" text-xl leading-tight truncate text-white/90">
           Nicko
         </p>
       </div>
