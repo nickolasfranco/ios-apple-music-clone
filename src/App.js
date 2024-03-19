@@ -230,7 +230,7 @@ function ProgressBar({ playing, currentTime, setCurrentTime }) {
           style={{ width: progressPreciseWidth }}
           className="absolute top-0"
         >
-          <div className="absolute inset-0 h-[3px] bg-red rounded-full"></div>
+          <div className="absolute inset-0 h-[3px] bg-blue rounded-full"></div>
         </motion.div>
         <div
           className="absolute inset-0 -ml-[15px] -mr-[17px]"
